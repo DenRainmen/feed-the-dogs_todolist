@@ -11,7 +11,7 @@ export type TaskType = {
 
 export const App = () => {
   let [tasks, setTasks] = useState([
-     { id: v1(), title: "Шарик", isDone: true },
+     { id: v1(), title: "Шарик", isDone: false },
    
   ])
 
