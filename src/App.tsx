@@ -11,11 +11,8 @@ export type TaskType = {
 
 export const App = () => {
   let [tasks, setTasks] = useState([
-    // { id: v1(), title: "HTML&CSS", isDone: true },
-    // { id: v1(), title: "JS", isDone: true },
-    // { id: v1(), title: "ReactJS", isDone: false },
-    // { id: v1(), title: "Redux", isDone: false },
-    // { id: v1(), title: "NodeJS", isDone: false }
+     { id: v1(), title: "HTML&CSS", isDone: true },
+   
   ])
 
 
