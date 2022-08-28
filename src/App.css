@@ -1,0 +1,17 @@
+.error {
+  border: red 3px solid;
+}
+
+.error-message {
+  color: red;
+}
+
+.btnFilter{
+  background-color: #FFBA3D;
+}
+
+.complete{
+  opacity: 0.4;
+  color: deeppink;
+  text-decoration-line: line-through;
+}
